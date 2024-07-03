@@ -1,7 +1,6 @@
 Responsive Ecommerce Website Using HTML CSS & JavaScript.
+
+
  Part1: Responsive Home Page Design.
- Part2: Shop Page & Single Product Page.
- Part3: Blog Page.
- Part4: About Page.
- Part5: Contact Us.
- Part6: Ecommerce Shopping Cart.
+Here is the link to display the project: https://relaxed-dasik-c8bd4f.netlify.app/
+ 
